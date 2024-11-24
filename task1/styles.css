@@ -1,0 +1,45 @@
+/* Reset and Base Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(to right, #ffffff, #f7f7f7);
+    color: #333;
+    transition: all 0.3s ease;
+  }
+  
+  /* Header */
+  header {
+    background: #da2612;
+    color: rgb(177, 249, 136);
+    padding: 1rem;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Hero Section */
+  #hero {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  .profile-image {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  /* Skills Section */
+  #skills {
+    background: #f4f4f4;
+  }
+  
+  /* Footer */
+  #footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+    
+    
